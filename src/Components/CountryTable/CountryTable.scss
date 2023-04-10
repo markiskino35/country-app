@@ -1,0 +1,41 @@
+table {
+  margin: 5rem auto;
+  border-radius: 2rem;
+  border: 1rem hidden #c0c0c0;
+  border-collapse: collapse;
+  box-shadow: 0 0 0 1px #c0c0c0;
+  overflow: hidden;
+  max-width: 80rem;
+  background-color: #fff;
+}
+
+li,
+p,
+a,
+td {
+  font-size: 1.6rem;
+  line-height: 1.6;
+  text-align: center;
+}
+
+thead {
+  font-size: 1.8rem;
+  background-color: #5292e3;
+  color: #fff;
+}
+
+th,
+td {
+  border: 1px solid #c0c0c0;
+  min-width: 30rem;
+  padding: 1.5rem;
+  line-height: 1.7;
+}
+
+td {
+  font-size: 1.4rem;
+}
+
+.error {
+  margin-top: 50px;
+}
