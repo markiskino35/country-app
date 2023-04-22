@@ -23,8 +23,6 @@ function App() {
       });
   }, []);
 
-  // console.log(countries);
-
   return (
     <div>
       <SearchBox
